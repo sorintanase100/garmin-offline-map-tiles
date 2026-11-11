@@ -1,0 +1,39 @@
+{
+  "format_version": 1,
+  "name": "fr57042mm",
+  "attribution": "\u00a9 OpenStreetMap contributors",
+  "license": "ODbL 1.0",
+  "palette_colors": 16,
+  "levels": [
+    {
+      "level": "d",
+      "meters_per_pixel": 2.5,
+      "tile_pixels": 390,
+      "rows": 15,
+      "columns": 15,
+      "min_latitude": 44.38211821775063,
+      "max_latitude": 44.50788178224937,
+      "min_longitude": 26.006920771439642,
+      "max_longitude": 26.183079228560356,
+      "latitude_span": 0.008758533956162416,
+      "longitude_span": 0.012268178263764236,
+      "tile_count": 225
+    },
+    {
+      "level": "o",
+      "meters_per_pixel": 10.0,
+      "tile_pixels": 390,
+      "rows": 7,
+      "columns": 7,
+      "min_latitude": 44.328010308070546,
+      "max_latitude": 44.561989691929455,
+      "min_longitude": 25.944254300666834,
+      "max_longitude": 26.245745699333163,
+      "latitude_span": 0.03503413582464966,
+      "longitude_span": 0.04907271305505694,
+      "tile_count": 49
+    }
+  ],
+  "total_tiles": 274,
+  "total_png_bytes": 5096247
+}
