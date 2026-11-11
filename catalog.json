@@ -1,0 +1,19 @@
+{
+  "format_version": 1,
+  "attribution": "\u00a9 OpenStreetMap contributors",
+  "license": "ODbL 1.0",
+  "regions": [
+    {
+      "country": "Romania",
+      "city": "Bucharest",
+      "region": "romania/bucharest",
+      "name": "Bucharest, Romania",
+      "index": "romania/bucharest/index.json",
+      "min_latitude": 44.328010308070546,
+      "max_latitude": 44.561989691929455,
+      "min_longitude": 25.944254300666834,
+      "max_longitude": 26.245745699333163,
+      "total_tiles": 274
+    }
+  ]
+}
